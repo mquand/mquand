@@ -1,10 +1,10 @@
-## 🌐 Socials:
+##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/oanminhquan.372724/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/p_uawan._/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/qu%C3%A2n-%C4%91o%C3%A0n-minh-49a98b333/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:doanquan087@gmail.com) 
 
-## 💻 Tech Stack:
+##  Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/mquand/mquand/refs/heads/main/2.gif" width="800" />
 </p>
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mquand&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
   <img src="https://raw.githubusercontent.com/mquand/mquand/refs/heads/main/1.gif" height="200"/>
