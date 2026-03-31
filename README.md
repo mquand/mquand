@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Quan</h1>
-<h3 align="center">Backend Developer | Automation | Python Lover</h3>
+<h1 align="center">Quan 🚀</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+Engineer;System+Builder;Python+%7C+Django+%7C+DevOps" />
+</p>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect
 <p align="center">
   <a href="https://www.facebook.com/oanminhquan.372724">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
@@ -21,70 +24,70 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
 <p align="center">
 
+<!-- Core -->
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/DjangoREST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
 
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<!-- Backend/Runtime -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<!-- Database -->
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
+<!-- Tools -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </p>
 
 ---
 
 ## 🚀 What I Do
-- 🔧 Build backend systems with Django & DRF  
-- 🤖 Automation (Selenium, scripting tools)  
-- ⚡ Deploy & optimize APIs  
-- 📊 Data handling (Postgres, MongoDB)
+- Build scalable backend systems (Django, DRF)
+- Design APIs & optimize performance
+- Automation workflows (bots, scraping, system tools)
+- Deploy & containerize apps (Docker)
+- Work across fullstack when needed (React, TS)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mquand&show_icons=true&theme=radical" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mquand&theme=radical" height="180"/>
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mquand&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mquand&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mquand&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mquand&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mquand&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🧩 Profile Summary Cards
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mquand&theme=radical&no-frame=true&row=1&margin-w=10"/>
+</p>
+
+---
+
+## ⚡ Coding Insights
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mquand&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mquand&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mquand&theme=github_dark"/>
-</p>
-
----
-
-## 👀 Visitors
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mquand&icon=5&color=12"/>
 </p>
