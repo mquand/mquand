@@ -19,11 +19,10 @@
 ---
 
 ## 🧠 About Me
-- Backend Developer với gần 1 năm kinh nghiệm thực tế tại **Công ty cổ phần giải pháp Unica**
-- Hiểu biết về **automation systems, system design và xử lý dữ liệu**
-- Đã build và vận hành **production systems (Zinbox, CRM, AI workflows)**
-- Thành thạo **multi-threading, API integration và workflow automation**
-
+- Backend Developer với gần 1 năm kinh nghiệm tại **Công ty cổ phần giải pháp Unica**  
+- Kinh nghiệm thiết kế và xây dựng hệ thống automation, multi-threading, tích hợp API và xử lý dữ liệu  
+- Đã trực tiếp phát triển và vận hành các hệ thống production (Zinbox, CRM, AI workflows)
+  
 ---
 
 ## ⚡ Tech Stack
@@ -37,7 +36,7 @@
 - ReactJS, TypeScript, Tailwind css
 
 ### ⚙️ Automation & Tools 
-- PySide6 (Desktop Application)  
+- PySide6 (Desktop Application)
 
 ### 🗄️ Database
 - PostgreSQL   
