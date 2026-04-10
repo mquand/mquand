@@ -19,7 +19,7 @@
 ---
 
 ## 🧠 About Me
-- Backend Developer với gần 1 năm kinh nghiệm tại **Công ty cổ phần giải pháp Unica**  
+- Backend Developer tại **Công ty Cổ Phần Salemall**  
 - Kinh nghiệm thiết kế và xây dựng hệ thống automation, multi-threading, tích hợp API và xử lý dữ liệu  
 - Đã trực tiếp phát triển và vận hành các hệ thống production (Zinbox, CRM, AI workflows)
   
