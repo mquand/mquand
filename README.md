@@ -11,7 +11,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,nestjs,react,ts,tailwind,postgres,docker,vercel,git,github,linux,redis,vscode,postman&perline=18" />
@@ -26,17 +26,24 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mquand&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mquand&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=00F7FF&sideLabels=00F7FF&sideNums=00F7FF&dates=AAAAAA" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mquand&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-## 🎧 Spotify Playing
+
+##  Spotify Playing
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
