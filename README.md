@@ -1,10 +1,10 @@
-<h1 align="center">Đoàn Minh Quân 🚀</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+Engineer;System+Builder;AI+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Đoàn+Minh+Quân;Backend+Engineer;Automation+System+Builder;AI+Integration+Specialist" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+</p>
 
 ## 🌐 Connect
 <p align="center">
