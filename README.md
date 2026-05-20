@@ -29,7 +29,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mquand&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=00F7FF&sideLabels=00F7FF&sideNums=00F7FF&dates=AAAAAA" />
+  <img src="https://streak-stats.demolab.com?user=mquand&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=00F7FF&sideLabels=00F7FF&sideNums=00F7FF&dates=AAAAAA" />
 </p>
 
 <p align="center">
