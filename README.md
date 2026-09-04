@@ -48,8 +48,8 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <p align="center">
-  <a href="https://open.spotify.com/user/11153360645">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zi2gq3obecekezixf6h4bpv2t4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true">
   </a>
 </p>
 
