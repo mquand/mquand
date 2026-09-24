@@ -29,6 +29,14 @@
 ## GitHub Activity
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mquand/mquand/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mquand/mquand/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/mquand/mquand/output/pacman-contribution-graph-dark.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=mquand&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=00F7FF&sideLabels=00F7FF&sideNums=00F7FF&dates=AAAAAA" />
 </p>
 
